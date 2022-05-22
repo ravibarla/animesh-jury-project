@@ -1,0 +1,7 @@
+.img-hover:hover{
+    opacity: 0.5;
+}
+
+.img-text-props{
+    position: relative; top: -15%;left: 25%; width: 50%;text-align: center;height: 10%;opacity: 0.8;
+}
