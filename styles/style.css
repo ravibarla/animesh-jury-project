@@ -5,3 +5,7 @@
 .img-text-props{
     position: relative; top: -15%;left: 25%; width: 50%;text-align: center;height: 10%;opacity: 0.8;
 }
+
+.ht{
+    height: 500px;
+}
